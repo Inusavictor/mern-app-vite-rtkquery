@@ -1,0 +1,6 @@
+Fullstack MERN app.
+Uses jwt token stored in http only cookie for authentication
+redux rtk query for state management and api call
+rtq query for auto handling of redux events
+frontend built with VITE
+login logout functionality
